@@ -9,5 +9,5 @@
 
 
 ## Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhijunWang1991&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=ZhijunWang1991&theme=dracula" width="62%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhijunWang1991&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=ZhijunWang1991&count_private=true&theme=dracula&show_icons=true" width="62%" />
 
