@@ -9,5 +9,6 @@
 
 
 ## Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhijunWang1991&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=ZhijunWang1991&count_private=true&theme=dracula&show_icons=true" width="62%" />
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ZhijunWang1991&include_all_commits=true&count_private=true&theme=dracula&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhijunWang1991&hide=jupyter%20notebook,html,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10&theme=dracula)
