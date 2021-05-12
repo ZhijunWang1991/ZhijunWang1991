@@ -15,5 +15,5 @@
 
 ## 📕 Certifications
 
-![Caret_R](Caret_R.png){ width=50% }
+<img src="Caret_R.png" width="395" height="269">
 
