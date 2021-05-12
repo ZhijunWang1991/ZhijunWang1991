@@ -15,12 +15,8 @@
 
 ## 📕 Certifications
 
-### R
 <img src="Caret_R.png" alt="Machine Learning with caret in R"
-   title="Machine Learning with caret in R" width="198" height="135"> </a>
-
-### Python
-
+   title="Machine Learning with caret in R" width="198" height="135"> 
 <img src="Udacity_python.png" alt="Data analytics"
    title="Data analytics" width="198" height="135"> </a>
 
