@@ -2,7 +2,7 @@
 
 ### Hi there, welcome to my GitHub! 👋
 
-## Me:
+## 😄 Me:
 
 - 🔭 I’m currently working on Food Authenticity and Nutrition.
 - 🌱 I’m currently learning big data in Foods.
