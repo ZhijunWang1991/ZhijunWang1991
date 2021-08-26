@@ -1,4 +1,3 @@
-![Header](background.jpg "Header")
 
 ### Hi there, welcome to my GitHub! 👋
 
