@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Food Authenticity and Nutrition.
 - 🌱 I’m currently learning big data in Foods.
-- 💻 I have experiences in PLS-DA, RF, ANN for hyperspectral imageing and       chemical compositional data in foods.
+- 💻 I have experiences in PLS-DA, RF, ANN for hyperspectral imageing and     Mass data in foods.
 
 ## 🛠️ Coding Activity
 
