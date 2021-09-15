@@ -4,7 +4,7 @@
 ## 😄 Me:
 
 - 🔭 I’m currently working on Food Authenticity and Nutrition.
-- 🌱 I’m currently learning Data Science for its application in Food Science.
+- 🌱 I’m currently using Data Science in Food Science.
 
 ## 🛠️ Coding Activity
 
