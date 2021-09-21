@@ -13,10 +13,17 @@
 
 ## 📕 Certifications
 
-<img src="Caret_R.png" alt="Machine Learning with caret in R"
-   title="Machine Learning with caret in R" width="198" height="135"> 
+<img src="DatascientistwithR.png" alt="Data Scientist with R"
+   title="Data Scientist with R" width="135" height="135">
+   
 <img src="Udacity_python.png" alt="Data analytics"
-   title="Data analytics" width="198" height="135"> </a>
+   title="Data analytics" width="135" height="135"> </a>
+   
+<img src="Data Visualization.png" alt="Data Visualization with R"
+   title="Data Visualization with R" width="135" height="135">
+   
+<img src="Machine Learning caret.png" alt="Machine Learning caret"
+   title="Machine Learning with caret in R" width="135" height="135">
 
 
 
