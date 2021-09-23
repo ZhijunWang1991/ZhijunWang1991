@@ -1,12 +1,5 @@
 
-### Hi there, welcome to my GitHub!
-I’m a PhD Candidate of Food Authenticity and Nutrition at Wageningen Univeristy & Research.
-
-I have been working with the Food Science and Data Science since 2017, during this time I worked with a variety of mass spectrometry, spectral analysis techniques, regression and classification models.
-
-I believe that digital transformation is one of the trends in building sustainable agricultural and food systems.
-
-### Hi there, welcome to my blog! 👋
+### Hi there, welcome to my github! 👋
 
 - 🌾 I’m a PhD Candidate of Food Authenticity and Nutrition at Wageningen Univeristy & Research.
 
