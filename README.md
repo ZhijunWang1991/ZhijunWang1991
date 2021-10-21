@@ -1,7 +1,7 @@
 
 ### Hi there, welcome to my github! 👋
 
-- 🌾 I’m a PhD Candidate of Food Authenticity and Nutrition at Wageningen Univeristy & Research.
+- 🌾 I’m a PhD Candidate of Food Authenticity and Nutrition at Wageningen Univeristy & Research, the Netherlands.
 
 - 👨‍💻 I have been working with the Food Science and Data Science since 2017, during this time I worked with a variety of mass spectrometry, spectral analysis techniques, regression and classification models.
 
@@ -15,19 +15,7 @@
 ### 📕 Certifications
 
 - [**Data Scientist with R Track**](https://www.datacamp.com/statement-of-accomplishment/track/29dae208d30684b87e6071f27a9e4b2816407ba6?raw=1), DataCamp.
+- [**Machine Learning Scientist with R Track**](https://www.datacamp.com/statement-of-accomplishment/track/298f9dd658b9ce4016e66cd5a11865f6e656d9ac), DataCamp.
 - [**Data Visualization with R Track**](https://www.datacamp.com/statement-of-accomplishment/track/b1b88592910af14b2485ea9c0d4a2570cde4e234), DataCamp.
 - [**Machine Learning with *caret* in R**](https://www.datacamp.com/statement-of-accomplishment/course/904ee255e9b6a72c48006df6f3bb3a0cfdb98805), DataCamp.
 - [**Data analytics (Python)**](https://graduation.udacity.com/confirm/H9LHJ5Q7), Udacity.
-
-<img src="DatascientistwithR.png" alt="Data Scientist with R"
-   title="Data Scientist with R" width="135" height="135"></a>
-<img src="Udacity_python.png" alt="Data analytics"
-   title="Data analytics" width="135" height="135"> </a>
-<img src="Data Visualization.png" alt="Data Visualization with R"
-   title="Data Visualization with R" width="135" height="135"></a>
-<img src="Machine Learning caret.png" alt="Machine Learning caret"
-   title="Machine Learning with caret in R" width="135" height="135"></a>
-
-
-
-
