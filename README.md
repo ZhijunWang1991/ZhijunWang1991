@@ -1,7 +1,7 @@
 
 ### Hi there, welcome to my github! 👋
 
-- 🌾 I’m a PhD Candidate of Food Authenticity and Nutrition at Wageningen Univeristy & Research, the Netherlands.
+- 🌾 I’m a PhD Candidate of Food Authenticity and Nutrition of FQD group at Wageningen Univeristy & Research, the Netherlands.
 
 - 👨‍💻 I have been working with the Food Science and Data Science since 2017, during this time I worked with a variety of mass spectrometry, spectral analysis techniques, regression and classification models.
 
