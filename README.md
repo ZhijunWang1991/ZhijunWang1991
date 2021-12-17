@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZhijunWang1991&label=Views&color=blue&style=plastic" alt="Zhijun" /> </p>
 
 ### Hi there, welcome to my github! 👋
 
