@@ -10,7 +10,7 @@
 ### 🛠️ Coding Activity
 
 ![Github stats](https://github-readme-stats-vert-iota-98.vercel.app/api?username=ZhijunWang1991&count_private=true&theme=dracula&show_icons=true)
-![Top languages](https://github-readme-stats-vert-iota-98.vercel.app/api/top-langs/?username=ZhijunWang1991&hide=jupyter%20notebook,html,JavaScript,PostScript,SCSS,Tex,Less&layout=compact&langs_count=10&theme=dracula)
+![Top languages](https://github-readme-stats-vert-iota-98.vercel.app/api/top-langs/?username=ZhijunWang1991&hide=html,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10&theme=dracula)
 
 ### 📕 Certifications
 
