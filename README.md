@@ -1,15 +1,19 @@
 ### Hi there, welcome to my github! 👋
 
-- 🌾 I’m a PhD Candidate of Food Authenticity and Safety of FQD group at Wageningen Univeristy & Research, the Netherlands.
-
-- 👨‍💻 I have been working with the Food Science and Data Science since 2017, during this time I worked with a variety of mass spectrometry, spectral analysis techniques, regression and classification models.
-
-- 🌏 I believe that digital transformation is one of the trends in building sustainable agricultural and food systems.
-
 ### 🛠️ Coding Activity
 
 ![Github stats](https://github-readme-stats-vert-iota-98.vercel.app/api?username=ZhijunWang1991&count_private=true&theme=dracula&show_icons=true)
 ![Top languages](https://github-readme-stats-vert-iota-98.vercel.app/api/top-langs/?username=ZhijunWang1991&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10&theme=dracula)
+
+- 🌾 My name is Zhijun and I like food safety & data science.
+
+- I am a last year PhD candidate in Wageningen Univeristy & Research, the Netherlands.
+
+- My work aims to mitigate food fraud with the support from data science.
+
+- I play R and Python languages.
+
+- I developed a R package [wagedown](https://github.com/ZhijunWang1991/wagedown) for writing PhD thesis.
 
 ### 📕 Certifications
 
